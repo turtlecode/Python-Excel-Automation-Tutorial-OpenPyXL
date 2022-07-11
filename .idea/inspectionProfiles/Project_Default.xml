@@ -1,0 +1,33 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="2">
+            <item index="0" class="java.lang.String" itemvalue="scipy" />
+            <item index="1" class="java.lang.String" itemvalue="pygame" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyStubPackagesAdvertiser" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="PyQt5-stubs==5.15.2.0" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="Strings.OpenGL" />
+          <option value="png" />
+          <option value="kivy.graphics.Color" />
+          <option value="kivy.graphics.Rectangle" />
+          <option value="main.twilio_credentials" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
